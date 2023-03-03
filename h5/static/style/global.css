@@ -1,0 +1,254 @@
+.mr5 {
+  margin-right: 5rpx;
+}
+
+.mr10 {
+  margin-right: 10rpx;
+}
+
+.mr15 {
+  margin-right: 15rpx;
+}
+
+.mr20 {
+  margin-right: 20rpx;
+}
+
+.mr40 {
+  margin-right: 40rpx;
+}
+
+.mr44 {
+  margin-right: 44rpx;
+}
+
+.mr48 {
+  margin-right: 48rpx;
+}
+
+.ml10 {
+  margin-left: 10rpx;
+}
+
+.mt5 {
+  margin-top: 5rpx;
+}
+
+.mt8 {
+  margin-top: 8rpx;
+}
+
+.mt10 {
+  margin-top: 10rpx;
+}
+
+.mt15 {
+  margin-top: 15rpx;
+}
+
+.mt20 {
+  margin-top: 20rpx;
+}
+
+.mt28 {
+  margin-top: 28rpx;
+}
+
+.mt30 {
+  margin-top: 30rpx;
+}
+
+.mt40 {
+  margin-top: 40rpx;
+}
+
+.mb10 {
+  margin-bottom: 10rpx;
+}
+
+.mb20 {
+  margin-bottom: 20rpx;
+}
+
+.mb40 {
+  margin-bottom: 40rpx;
+}
+
+.pt20 {
+  padding-top: 20rpx;
+}
+
+.pb20 {
+  padding-bottom: 20rpx;
+}
+
+.pr10 {
+  padding-right: 10rpx;
+}
+
+.px32 {
+  padding-left: 32rpx;
+  padding-right: 32rpx;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+// 页面统一距离底部80rpx
+.pb100 {
+  padding-bottom: 100rpx !important;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex_c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex_jc {
+  display: flex;
+  justify-content: center;
+}
+
+.flex_je {
+  display: flex;
+  justify-content: end;
+}
+
+.flex_ac {
+  display: flex;
+  align-items: center;
+}
+
+.flex_ja {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex_jb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex_dir {
+  flex-direction: column;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.flexn {
+  flex: none;
+}
+
+.flex_wrap {
+  flex-wrap: wrap;
+}
+
+.flex_dir_row {
+  flex-direction: row-reverse;
+}
+
+.tc {
+  text-align: center;
+}
+
+.tr {
+  text-align: right;
+}
+
+.ver-m {
+  vertical-align: middle;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.over_ell {
+  width: 100%;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+view {
+  box-sizing: border-box;
+}
+
+.wd-w-full {
+  width: 100%;
+}
+
+.wd-h-full {
+  height: 100%;
+}
+
+.my-noData {
+  margin-top: 30%;
+}
+
+.wd-text-c111 {
+  color: #111827;
+}
+
+.wd-text-c9 {
+  color: #9ca3af;
+}
+
+.wd-text-c0 {
+  color: #007dfe;
+}
+
+.wd-text-cff {
+  color: #ff0000;
+}
+
+.wd-bg-c0 {
+  background: #007dfe;
+}
+
+.my-contain {
+  height: 100%;
+  background: linear-gradient(180deg, #e6f2ff 5%, #ffffff 15%, #ffffff 100%);
+}
+
+.tui-btn-box {
+  width: 686rpx;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 88rpx;
+  background: #007dfe;
+  border-radius: 16rpx;
+  font-size: 32rpx;
+  font-family: SF Pro Display, SF Pro Display-Regular;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+  line-height: 88rpx;
+}
+
+.tui-phcolor {
+  font-size: 32rpx;
+  font-family: SF Pro Display, SF Pro Display-Regular;
+  font-weight: 400;
+  color: #9ca3af;
+  text-align: left;
+  line-height: 48rpx;
+}
+
+.tui-dialog {
+  left: 10% !important;
+  right: 10% !important;
+}
+uni-page-body {
+  height: 100%;
+}
